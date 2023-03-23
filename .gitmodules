@@ -1,0 +1,3 @@
+[submodule "src/public/ml-dashboard-app"]
+	path = src/public/ml-dashboard-app
+	url = https://github.com/DevDigitalBros/ml-dashboard-app-frontend.git
